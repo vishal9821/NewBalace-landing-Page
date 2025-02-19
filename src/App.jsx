@@ -12,7 +12,7 @@ const APP = () => (
 
   <main className="relative">
      <nav><Nav /></nav>
-     <section className="xl:padding-l wide:padding-r padding-b"><Hero /></section>
+     <section className="padding"><Hero /></section>
      <section className="padding"> <PopularProduct /></section>
      <section className="padding"><SuperQuality /></section>
      <section className="padding-x py-10"><Services /></section>
